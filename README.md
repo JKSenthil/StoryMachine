@@ -2,11 +2,11 @@
 
 # Project Title and purpose
 
-One Paragraph of project description goes here
+The Story Machine aims to take in a file which contains a story and outputing a completely new story using Word APIs online.
 
 ### Difficulties or opportunities you encountered along the way.
 
-The toughest part was...
+The toughest part was figuring out how to extract each word in the story using regex and being able to replace that words without changing all the punctuation in the story (periods, capitalization, etc).
 
 ### Most interesting piece of your code and explanation for what it does.
 
