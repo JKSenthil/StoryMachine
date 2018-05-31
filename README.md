@@ -74,18 +74,16 @@ void capitalizeStory(){
   }
 }
 ```
-This is the code that moves down the tree as decisions are made.  It gets each value from both left and right and also casts the value to a String.  If the progressions arrives at the leaf nodes, those values are printed.
+This code basically uses API calls to change words in the story to other similar words. It then replaces these words and adds capitalization of the story.
 ## Built With
 
 * [Processing](https://processing.org/) - The IDE used
 
 ## Authors
 
-* **Billie Thompson** 
+* **Jason Senthil** 
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to Datamuse API for giving me access to their API.
